@@ -28,7 +28,7 @@ require (
 	cloud.google.com/go/profiler v0.3.0
 	cloud.google.com/go/pubsub v1.26.0
 	cloud.google.com/go/storage v1.28.0
-	github.com/aws/aws-sdk-go-v2 v1.7.1
+	github.com/aws/aws-sdk-go-v2 v1.17.1
 	github.com/aws/aws-sdk-go-v2/config v1.5.0
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.3.2
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.11.1
@@ -79,7 +79,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.5.1 // indirect
 	github.com/aws/aws-sdk-go-v2/service/sso v1.3.1 // indirect
 	github.com/aws/aws-sdk-go-v2/service/sts v1.6.0 // indirect
-	github.com/aws/smithy-go v1.6.0 // indirect
+	github.com/aws/smithy-go v1.13.4 // indirect
 	github.com/cenkalti/backoff/v4 v4.1.3 // indirect
 	github.com/census-instrumentation/opencensus-proto v0.2.1 // indirect
 	github.com/cespare/xxhash/v2 v2.1.2 // indirect
