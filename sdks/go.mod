@@ -31,9 +31,9 @@ require (
 	cloud.google.com/go/spanner v1.51.0
 	cloud.google.com/go/storage v1.34.1
 	github.com/aws/aws-sdk-go-v2 v1.22.1
-	github.com/aws/aws-sdk-go-v2/config v1.22.0
+	github.com/aws/aws-sdk-go-v2/config v1.22.1
 	github.com/aws/aws-sdk-go-v2/credentials v1.15.1
-	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.13.0
+	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.13.2
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.42.0
 	github.com/aws/smithy-go v1.16.0
 	github.com/docker/go-connections v0.4.0
