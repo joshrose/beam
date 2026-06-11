@@ -70,7 +70,7 @@ require (
 
 require (
 	github.com/avast/retry-go/v4 v4.7.0
-	github.com/fsouza/fake-gcs-server v1.52.3
+	github.com/fsouza/fake-gcs-server v1.54.0
 	github.com/golang-cz/devslog v0.0.16
 	github.com/moby/moby/api v1.54.2
 	github.com/moby/moby/client v0.4.1
@@ -189,7 +189,7 @@ require (
 	github.com/opencontainers/go-digest v1.0.0 // indirect
 	github.com/opencontainers/image-spec v1.1.1 // indirect
 	github.com/pierrec/lz4/v4 v4.1.26 // indirect
-	github.com/pkg/xattr v0.4.10 // indirect
+	github.com/pkg/xattr v0.4.12 // indirect
 	github.com/ryszard/goskiplist v0.0.0-20150312221310-2dfbae5fcf46 // indirect
 	github.com/sirupsen/logrus v1.9.4 // indirect
 	github.com/spf13/pflag v1.0.10 // indirect
